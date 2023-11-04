@@ -56,8 +56,6 @@ Make sure you have the following installed on your system:
    - Search for "C/C++" in the Extensions Marketplace.
    - Install the one provided by Microsoft.
 
-   ![Install Extension](images/install_extension.png)
-
 2. **Open the Course Repository:**
 
    - Clone or download this repository to your local machine.
