@@ -78,7 +78,7 @@ Let's embark on this coding adventure together! Happy coding! 🎉
 **Note:** Custom CSS styles can be added for further customization.
 
 ```css
-/* Custom CSS styles can be added here */
+/* Custom CSS styles can be added here
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -99,4 +99,5 @@ a {
 a:hover {
   text-decoration: underline;
 }
+ */
 ```
